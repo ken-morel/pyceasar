@@ -11,4 +11,4 @@ and it is circular so in same conditions `z` maps to `c`.
 
 ## usage
 
-use it as follows:
+usage: ceasar [-h] [-ceasar --c CEASAR] [-unceasar --u]               [-
